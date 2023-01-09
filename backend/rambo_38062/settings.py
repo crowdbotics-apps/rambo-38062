@@ -68,7 +68,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'django.contrib.sites'
+    'django.contrib.sites', "category", "customertext", "faq", "favorites", "homepage", "location", "myschedule", "presender", "schedule", "sponsor", "vendadetail", "vendor"
 ]
 LOCAL_APPS = [
     'home',
